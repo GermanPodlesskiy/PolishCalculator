@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.412,D:\Course project\Polish_calculator.dfm=C:\Users\podle\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,D:\Course project\Project1.dproj=D:\Course project\Calculator.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.903,=D:\Course project\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,D:\Course project\Polish_calculator.pas=C:\Users\podle\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,=D:\Course project\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=C:\Users\podle\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,=C:\Users\podle\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,=D:\Course project\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.569,D:\Course project\Project1.dproj=C:\Users\podle\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.841,=D:\Course project\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Polish_calculator.pas"/>
+    <File Path="Polish_calculator.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

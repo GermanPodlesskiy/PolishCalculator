@@ -1,0 +1,14 @@
+program Calculator;
+
+uses
+  Vcl.Forms,
+  Polish_calculator in 'Polish_calculator.pas' {Polish_calculator1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TPolish_calculator1, Polish_calculator1);
+  Application.Run;
+end.
